@@ -6,11 +6,16 @@ author_profile: true
 ---
 
 ## Courses Taught 
-
-* **Northern Illinois University / Advanced Essay Composition / 2025**
+* **Northern Illinois University / 2026**
+  * ENGL 629 Topics in Rhetoric: Second Language Writing (SLW) Theory and Pedagogy / 1 section
+  * ENGL 629/729 Topics in Rhetoric: Genre Theory and Pedagogy / 1 section
+  * ENGL 308 Technical Writing / 1 section
   * ENGL 300A Advanced Essay Composition / 1 section
     
-* **University of Arizona / Professional and Technical Writing / 2024**
+* **Northern Illinois University / 2025**
+  * ENGL 300A Advanced Essay Composition / 1 section
+    
+* **University of Arizona / 2024**
   * ENGL 313 Introduction to Professional and Technical Writing / 1 section
     
 * **University of Arizona / Writing Program / 2021-2023**
